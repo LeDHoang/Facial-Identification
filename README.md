@@ -8,7 +8,7 @@ Program is tested on photo database from VKIST in Hanoi,Vietnam that are collect
 
 Photos are taken at different angles to improve the accuracy overall 
 
-Photo database can be found here [Database](https://instaclone-dec22.herokuapp.com/)
+Photo database can be found here [Database](https://mega.nz/folder/0d5lSKyT#mtZUzzMC_hpP5aPVpzvZZw)
 
 Photo files are seperated to 4 files (poliface_orign,poliface_test, poliface_run and poliface_run_max) with different functions
 
